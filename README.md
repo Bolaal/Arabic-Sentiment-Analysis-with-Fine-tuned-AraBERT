@@ -31,8 +31,8 @@ This project implements and compares two state-of-the-art approaches for Arabic 
 
 | Model | Architecture | Parameters | Accuracy | F1-Score | Training Time |
 |-------|-------------|------------|----------|----------|---------------|
-| BiLSTM | 2-layer BiLSTM | ~500K | XX% | XX% | ~10 min |
-| AraBERT | BERT-base | ~110M | XX% | XX% | ~30 min |
+| BiLSTM | 2-layer BiLSTM | ~500K | 8453% | 0.8403% | ~10 min |
+| AraBERT | BERT-base | ~110M | 0.9287% | 0.9287% | ~30 min |
 
 **Winner:** AraBERT outperformed BiLSTM by XX% in accuracy
 
