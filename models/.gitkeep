@@ -1,0 +1,7 @@
+# Models Directory
+
+This directory stores trained models:
+- `bilstm_best_model.h5` - Trained BiLSTM model
+- `bilstm_tokenizer.pkl` - BiLSTM tokenizer
+
+Add your trained models here manually.

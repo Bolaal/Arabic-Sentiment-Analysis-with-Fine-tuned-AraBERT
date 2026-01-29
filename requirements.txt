@@ -1,0 +1,21 @@
+# Core ML/DL
+tensorflow>=2.12.0
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Metrics & Visualization
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Optional (for notebooks)
+jupyter>=1.0.0
+ipywidgets>=8.0.0

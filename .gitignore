@@ -1,0 +1,116 @@
+# =====================================================
+# Python
+# =====================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# =====================================================
+# Jupyter Notebook
+# =====================================================
+.ipynb_checkpoints/
+.virtual_documents/
+*.ipynb_checkpoints/
+
+# =====================================================
+# Model Files (AraBERT on Hugging Face)
+# =====================================================
+# AraBERT model files (hosted on Hugging Face)
+arabert_final_model/
+arabert_results/
+*.safetensors
+training_args.bin
+
+# BiLSTM model (keep these - they're small enough)
+# models/bilstm_best_model.h5        # Don't ignore - we want this
+# models/bilstm_tokenizer.pkl        # Don't ignore - we want this
+
+# =====================================================
+# Data Files (Large datasets)
+# =====================================================
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/README.md
+
+*.csv
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Exception: Keep BiLSTM model files
+!models/bilstm_best_model.h5
+!models/bilstm_tokenizer.pkl
+
+# =====================================================
+# Large Files
+# =====================================================
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# =====================================================
+# Logs and Outputs
+# =====================================================
+*.log
+logs/
+wandb/
+mlruns/
+runs/
+checkpoints/
+
+# =====================================================
+# IDE and OS
+# =====================================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# =====================================================
+# Temporary Files
+# =====================================================
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+
+# =====================================================
+# Environment Files
+# =====================================================
+.env
+.env.local
+.env.*.local

@@ -1,0 +1,26 @@
+{
+  "bilstm": {
+    "accuracy": null,
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "loss": null
+  },
+  "arabert": {
+    "accuracy": null,
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "loss": null
+  },
+  "comparison": {
+    "best_model": null,
+    "accuracy_improvement": null
+  },
+  "metadata": {
+    "date": "2026-01-29",
+    "dataset_size": null,
+    "train_samples": null,
+    "test_samples": null
+  }
+}
