@@ -17,13 +17,13 @@ This project implements and compares two state-of-the-art approaches for Arabic 
 - Custom architecture with trainable word embeddings
 - Bidirectional processing for context understanding
 - 2-layer LSTM with dropout regularization
-- **Accuracy: ~XX%** (update with your results)
+- **Accuracy: ~84.53%** (update with your results)
 
 ### **2. AraBERT (Transfer Learning)**
 - Fine-tuned BERT-base model pre-trained on Arabic corpus
 - Transformer architecture with 12 attention layers
 - State-of-the-art NLP performance
-- **Accuracy: ~XX%** (update with your results)
+- **Accuracy: ~92.87%** (update with your results)
 
 ---
 
@@ -31,8 +31,8 @@ This project implements and compares two state-of-the-art approaches for Arabic 
 
 | Model | Architecture | Parameters | Accuracy | F1-Score | Training Time |
 |-------|-------------|------------|----------|----------|---------------|
-| BiLSTM | 2-layer BiLSTM | ~500K | 8453% | 0.8403% | ~10 min |
-| AraBERT | BERT-base | ~110M | 0.9287% | 0.9287% | ~30 min |
+| BiLSTM | 2-layer BiLSTM | ~500K | 84.53% | 84.03% | ~10 min |
+| AraBERT | BERT-base | ~110M | 92.87% | 92.87% | ~30 min |
 
 **Winner:** AraBERT outperformed BiLSTM by XX% in accuracy
 
