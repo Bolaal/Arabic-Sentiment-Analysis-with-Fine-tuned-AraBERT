@@ -245,7 +245,7 @@ Contributions welcome! Please open an issue or submit a PR.
 **Belal Mahmoud Hussien**
 
 - 📧 Email: belalmahmoud8787@gmail.com
-- 💼 LinkedIn: [Belal Mahmoud](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Belal Mahmoud](https://www.linkedin.com/in/belal-mahmoud-husien)
 - 🐱 GitHub: [@Bolaal](https://github.com/Bolaal)
 - 🤗 Hugging Face: [@Belall87](https://huggingface.co/Belall87)
 
