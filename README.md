@@ -198,7 +198,7 @@ Output (1, Sigmoid)
 ## 🔗 Links & Resources
 
 - **🤗 AraBERT Model:** [Belall87/arabert-arabic-sentiment](https://huggingface.co/Belall87/arabert-arabic-sentiment)
-- **📓 Kaggle Notebook:** [Link to your Kaggle notebook]
+- **📓 Kaggle Notebook:** [https://www.kaggle.com/code/bilalmahmoud/arabic-sentiment-analysis-cv/edit/run/294758328]
 - **📚 Base Model:** [aubmindlab/bert-base-arabertv02](https://huggingface.co/aubmindlab/bert-base-arabertv02)
 - **💻 GitHub:** [Bolaal/Arabic-Sentiment-Analysis](https://github.com/Bolaal/Arabic-Sentiment-Analysis-BiLSTM-vs-AraBERT)
 
